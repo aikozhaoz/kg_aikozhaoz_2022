@@ -1,1 +1,8 @@
-# kg_aikozhaoz_2022
+# Kargo's take home assignment
+
+## Description
+
+I used JavaScript for this online assessment
+
+## Author
+Aiko Zhao
